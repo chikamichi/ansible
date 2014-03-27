@@ -3,7 +3,7 @@
 Ansible
 =======
 
-Ansible is a radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
+Ansible is a radically simple configuration-management application deployment, task-execution, and multinode orchestration engine.
 
 Read the documentation and more at http://ansible.com/
 
